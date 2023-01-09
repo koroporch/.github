@@ -23,4 +23,6 @@ Because ...
 
 ## Additional context
 
-**Related PR:**
+**Related PRs:**
+
+**Related Issues:**
